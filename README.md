@@ -18,6 +18,7 @@ Address of a file: `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`
 |---|---|
 | Arcadia Admin Panel | `mods/arcadiaadminpanel/curseforge/` |
 | Arcadia Games | `mods/arcadia-games/curseforge/` |
+| Arcadia Lib | `mods/arcadia_lib/curseforge/` |
 | Arcadia Lootbox | `mods/arcadialootbox/curseforge/` |
 | Arcadia Spawn | `mods/arcadia_spawn/curseforge/` |
 | My Girlfriend Laura | `mods/lauramod/curseforge/` |
@@ -52,6 +53,7 @@ Adresse d'un fichier : `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<ch
 |---|---|
 | Arcadia Admin Panel | `mods/arcadiaadminpanel/curseforge/` |
 | Arcadia Games | `mods/arcadia-games/curseforge/` |
+| Arcadia Lib | `mods/arcadia_lib/curseforge/` |
 | Arcadia Lootbox | `mods/arcadialootbox/curseforge/` |
 | Arcadia Spawn | `mods/arcadia_spawn/curseforge/` |
 | My Girlfriend Laura | `mods/lauramod/curseforge/` |
