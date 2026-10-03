@@ -16,6 +16,7 @@ Address of a file: `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`
 
 | Project | Folder |
 |---|---|
+| Arcadia Admin Panel | `mods/arcadiaadminpanel/curseforge/` |
 | Arcadia Games | `mods/arcadia-games/curseforge/` |
 | My Girlfriend Laura | `mods/lauramod/curseforge/` |
 
@@ -47,6 +48,7 @@ Adresse d'un fichier : `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<ch
 
 | Projet | Dossier |
 |---|---|
+| Arcadia Admin Panel | `mods/arcadiaadminpanel/curseforge/` |
 | Arcadia Games | `mods/arcadia-games/curseforge/` |
 | My Girlfriend Laura | `mods/lauramod/curseforge/` |
 
