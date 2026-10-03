@@ -9,6 +9,7 @@ The source repositories can stay private: pages load their pictures from here th
 mods/<mod-id>/curseforge/      everything a CurseForge page loads (banners, titles, badges, divider)
 mods/<mod-id>/curseforge/icons/        feature icons
 mods/<mod-id>/curseforge/screenshots/  gallery pictures (uploaded to CurseForge by hand)
+shared/<project>/              pictures used by several pages (the Arcadia V2 server banner)
 ```
 
 Address of a file: `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`
@@ -39,6 +40,7 @@ Les dépôts sources peuvent rester privés : les pages chargent leurs images d'
 mods/<id-du-mod>/curseforge/              tout ce que charge une page CurseForge (bannières, titres, badges, séparateur)
 mods/<id-du-mod>/curseforge/icons/        icônes des fonctionnalités
 mods/<id-du-mod>/curseforge/screenshots/  images de galerie (envoyées à la main sur CurseForge)
+shared/<projet>/                          images utilisées par plusieurs pages (bannière du serveur Arcadia V2)
 ```
 
 Adresse d'un fichier : `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<chemin>`
