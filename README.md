@@ -16,6 +16,7 @@ Address of a file: `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`
 
 | Project | Folder |
 |---|---|
+| Are You Sure? | `mods/areyousure/curseforge/` |
 | Arcadia Admin Panel | `mods/arcadiaadminpanel/curseforge/` |
 | Arcadia Auction House | `mods/arcadia_ah/curseforge/` |
 | Arcadia Games | `mods/arcadia-games/curseforge/` |
@@ -54,6 +55,7 @@ Adresse d'un fichier : `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<ch
 
 | Projet | Dossier |
 |---|---|
+| Are You Sure? | `mods/areyousure/curseforge/` |
 | Arcadia Admin Panel | `mods/arcadiaadminpanel/curseforge/` |
 | Arcadia Auction House | `mods/arcadia_ah/curseforge/` |
 | Arcadia Games | `mods/arcadia-games/curseforge/` |
