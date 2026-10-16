@@ -21,7 +21,7 @@ Address of a file: `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`
 | Arcadia Auction House | `mods/arcadia_ah/curseforge/` |
 | Arcadia Games | `mods/arcadia-games/curseforge/` |
 | Arcadia Lib | `mods/arcadia_lib/curseforge/` |
-| Arcadia Lootbox | `mods/arcadialootbox/curseforge/` |
+| Arcadia LootBox | `mods/arcadialootbox/curseforge/` |
 | Arcadia Pets | `mods/arcadia_pets/curseforge/` |
 | Arcadia Prestige | `mods/arcadia_prestige/curseforge/` |
 | Arcadia Spawn | `mods/arcadia_spawn/curseforge/` |
@@ -61,7 +61,7 @@ Adresse d'un fichier : `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<ch
 | Arcadia Auction House | `mods/arcadia_ah/curseforge/` |
 | Arcadia Games | `mods/arcadia-games/curseforge/` |
 | Arcadia Lib | `mods/arcadia_lib/curseforge/` |
-| Arcadia Lootbox | `mods/arcadialootbox/curseforge/` |
+| Arcadia LootBox | `mods/arcadialootbox/curseforge/` |
 | Arcadia Pets | `mods/arcadia_pets/curseforge/` |
 | Arcadia Prestige | `mods/arcadia_prestige/curseforge/` |
 | Arcadia Spawn | `mods/arcadia_spawn/curseforge/` |
