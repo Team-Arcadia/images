@@ -26,6 +26,7 @@ Address of a file: `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`
 | Arcadia Prestige | `mods/arcadia_prestige/curseforge/` |
 | Arcadia Spawn | `mods/arcadia_spawn/curseforge/` |
 | My Girlfriend Laura | `mods/lauramod/curseforge/` |
+| Just Replay | `mods/justreplay/curseforge/` |
 
 ## Rules
 
@@ -65,6 +66,7 @@ Adresse d'un fichier : `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<ch
 | Arcadia Prestige | `mods/arcadia_prestige/curseforge/` |
 | Arcadia Spawn | `mods/arcadia_spawn/curseforge/` |
 | My Girlfriend Laura | `mods/lauramod/curseforge/` |
+| Just Replay | `mods/justreplay/curseforge/` |
 
 ## Règles
 
