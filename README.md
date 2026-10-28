@@ -1,7 +1,8 @@
 # Team Arcadia images
 
 Public hosting for the pictures shown on Team Arcadia project pages (CurseForge, Modrinth, websites).
-The source repositories can stay private: pages load their pictures from here through jsDelivr.
+The source repositories can stay private: pages load their pictures from here through GitHub Pages
+(jsDelivr refuses a repository over 50 MB, which this one is).
 
 ## Layout
 
@@ -12,7 +13,10 @@ mods/<mod-id>/curseforge/screenshots/  gallery pictures (uploaded to CurseForge 
 shared/<project>/              pictures used by several pages (the Arcadia V2 server banner)
 ```
 
-Address of a file: `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`
+Address of a file: `https://team-arcadia.github.io/images/<path>`
+
+Pages older than this move were published with `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`;
+those addresses keep only what jsDelivr already cached. Rebuild such a page to move it to Pages.
 
 | Project | Folder |
 |---|---|
@@ -33,7 +37,8 @@ Address of a file: `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<path>`
 
 - Files are generated in each mod's repository (`images/`, by `images/tools/`) and copied here; never edit them by hand.
 - Every file stays under 2 MB.
-- After replacing a file, jsDelivr may serve the old one for up to 12 hours.
+- After replacing a file, GitHub Pages serves the new one within a few minutes (its cache lasts 10 minutes).
+- `.nojekyll` at the root makes Pages serve every file as it is: never remove it.
 
 Author: vyrriox
 
@@ -42,7 +47,8 @@ Author: vyrriox
 # Images Team Arcadia (Version Française)
 
 Hébergement public des images des pages de projets Team Arcadia (CurseForge, Modrinth, sites).
-Les dépôts sources peuvent rester privés : les pages chargent leurs images d'ici via jsDelivr.
+Les dépôts sources peuvent rester privés : les pages chargent leurs images d'ici via GitHub Pages
+(jsDelivr refuse un dépôt de plus de 50 Mo, ce qui est le cas de celui-ci).
 
 ## Organisation
 
@@ -53,7 +59,10 @@ mods/<id-du-mod>/curseforge/screenshots/  images de galerie (envoyées à la mai
 shared/<projet>/                          images utilisées par plusieurs pages (bannière du serveur Arcadia V2)
 ```
 
-Adresse d'un fichier : `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<chemin>`
+Adresse d'un fichier : `https://team-arcadia.github.io/images/<chemin>`
+
+Les pages publiées avant ce changement utilisent `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<chemin>` ;
+ces adresses ne servent plus que ce que jsDelivr a déjà en cache. Reconstruire une telle page la passe sur Pages.
 
 | Projet | Dossier |
 |---|---|
@@ -74,6 +83,7 @@ Adresse d'un fichier : `https://cdn.jsdelivr.net/gh/Team-Arcadia/images@main/<ch
 
 - Les fichiers sont générés dans le dépôt de chaque mod (`images/`, par `images/tools/`) puis copiés ici ; jamais modifiés à la main.
 - Chaque fichier fait moins de 2 Mo.
-- Après remplacement d'un fichier, jsDelivr peut servir l'ancien pendant 12 heures.
+- Après remplacement d'un fichier, GitHub Pages sert le nouveau en quelques minutes (cache de 10 minutes).
+- `.nojekyll` à la racine fait servir chaque fichier tel quel par Pages : ne jamais le retirer.
 
 Auteur : vyrriox
