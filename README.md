@@ -32,6 +32,7 @@ those addresses keep only what jsDelivr already cached. Rebuild such a page to m
 | Arcadia Spawn | `mods/arcadia_spawn/curseforge/` |
 | My Girlfriend Laura | `mods/lauramod/curseforge/` |
 | Just Replay | `mods/justreplay/curseforge/` |
+| RS Polymorph | `mods/rspolymorph/curseforge/` |
 
 ## Rules
 
@@ -78,6 +79,7 @@ ces adresses ne servent plus que ce que jsDelivr a déjà en cache. Reconstruire
 | Arcadia Spawn | `mods/arcadia_spawn/curseforge/` |
 | My Girlfriend Laura | `mods/lauramod/curseforge/` |
 | Just Replay | `mods/justreplay/curseforge/` |
+| RS Polymorph | `mods/rspolymorph/curseforge/` |
 
 ## Règles
 
